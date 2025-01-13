@@ -47,3 +47,9 @@ public class DateExample {
 }
 
 ```
+
+
+şimdi de liste hazırlıyoruz:
+
+- [x] çalışmada 4. seviyeye geldim
+- [ ] diğer seviyeler duruyor
